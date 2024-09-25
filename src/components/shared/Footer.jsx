@@ -17,7 +17,7 @@ const Footer = () => {
     <p>
     Car Repair Workshop
       <br />
-      Providing reliable tech since 1992
+      Providing reliable tech since 2020
     </p>
   </aside>
   <nav>
