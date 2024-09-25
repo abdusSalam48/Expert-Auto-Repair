@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Bike Doctor Pro",
+  title: "Car Repair Workshop",
   description: "Bike Repairing workshop",
 };
 
